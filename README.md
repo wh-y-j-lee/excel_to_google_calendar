@@ -21,10 +21,10 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 ## 4. Fill your to-do list in excel files then run excel_to_calendar_v1 to add list to google calendar
 
-### Fix the path of excel_path
+Fix the path of excel_path
 
 <p align="left"><img src="img/4.png" /></p>
 
-### fill your to do list after today. if you want add all of do list, fix the code where the line comparing with today's timestamp
+Fill your to do list after today. if you want add all of do list, fix the code where the line comparing with today's timestamp
 
 <p align="left"><img src="img/5.png" /></p>
