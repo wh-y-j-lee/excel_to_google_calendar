@@ -7,7 +7,7 @@ follow Step 1 and put credentials.json in the project folder
 
 <p align="center"><img width="100%" src="img/2.png" /></p>
 
-<p align="left"><img width="100%" src="img/1.png" /></p>
+<p align="left"><img src="img/1.png" /></p>
 
 ## 2. Install following libraries by using pip
 
