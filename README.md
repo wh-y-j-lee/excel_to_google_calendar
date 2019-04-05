@@ -23,4 +23,4 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 <p align="left"><img src="img/4.png" /></p>
 
-<p align="center"><img width="100%" src="img/5.png" /></p>
+<p align="center"><img src="img/5.png" /></p>
