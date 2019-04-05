@@ -5,7 +5,9 @@ This program can insert to-do list in excel to google calendar.
 
 follow Step 1 and put credentials.json in the project folder
 
-<p align="left"><img width="100%" src="img/1.PNG" /></p>
+<p align="center"><img width="100%" src="img/2.png" /></p>
+
+<p align="left"><img width="100%" src="img/1.png" /></p>
 
 ## 2. Install following libraries by using pip
 
