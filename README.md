@@ -1,5 +1,6 @@
 # Excel to Google Calendar
-This program can insert to-do list in excel to google calendar.
+- This program can insert to-do list in excel to google calendar.
+- Program comments are written in Korean.
 
 ## 1.Get your credentials.json from [google calendar api]( https://developers.google.com/calendar/quickstart/python)
 
