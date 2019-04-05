@@ -1,0 +1,13 @@
+1. credential.json을 받아야 하는
+https://developers.google.com/calendar/quickstart/python 여기 들어가서
+
+Eanble the google calendar api 이거 파란 버튼 누르면 다운받아지는데 이거를 python파일 있는 곳에 소중히 모셔둔다.
+
+그리고 위 페이지에서 pip install 설치하라는 거  설치하고 pip install pandas까지 설치하면 사용 준비 완료
+
+
+2.이제 api 접근 권한을 얻기위해 credential.json을 받고 excel_to_calendar를 실행시키면
+ token 생성을 위해서 google calendar 창이 열리고 로그인 하라고 뜨는데 다 허용 눌러주면 token 생성 끝
+
+
+3. 프로젝트에 token.pickle이 생성되고 또 excel_to_calendar을 실행시키면 오늘 이 시간 이후로 추가된 배포용 일정표.xlsx의 keyword에 적힌 일정들이 중복으로 추가되지 않도록 검사 후 google calendar에 추가된다.
