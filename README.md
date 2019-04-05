@@ -17,4 +17,10 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 ## 3. Fix excel_path then run excel_to_calendar_v1 to create token.pickle
 
+<p align="left"><img src="img/3.png" /></p>
+
 ## 4. Fill your to-do list in excel files then run excel_to_calendar_v1 to add list to google calendar
+
+<p align="left"><img src="img/4.png" /></p>
+
+<p align="center"><img width="100%" src="img/5.png" /></p>
